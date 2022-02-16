@@ -1,0 +1,24 @@
+name: fetch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00
+  push:
+    branches: main
+jobs:
+  fetch-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lauravuo/fb-fetch-action@main
+        with:
+          start-year: 2014
+          page-id: ${{ secrets.FB_PAGE_ID }}
+          page-token: ${{ secrets.FB_PAGE_TOKEN }}
+
+      - run: |
+          git config --global user.email "fb-bot"
+          git config --global user.name "fb-bot"
+          git add data
+          git commit -a -m "Add latest posts."
+          git push
