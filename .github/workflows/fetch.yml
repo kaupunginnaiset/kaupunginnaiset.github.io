@@ -20,5 +20,4 @@ jobs:
           git config --global user.email "fb-bot"
           git config --global user.name "fb-bot"
           git add data
-          git commit -a -m "Add latest posts."
-          git push
+          git diff-index --quiet HEAD || git commit -a -m "Add latest posts." && git push
