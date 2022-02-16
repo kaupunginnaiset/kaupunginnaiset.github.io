@@ -14,7 +14,7 @@ jobs:
         with:
           start-year: 2014
           page-id: ${{ secrets.FB_PAGE_ID }}
-          page-token: page-id: ${{ secrets.FB_PAGE_TOKEN }}
+          page-token: ${{ secrets.FB_PAGE_TOKEN }}
 
       - run: |
           git config --global user.email "fb-bot"
