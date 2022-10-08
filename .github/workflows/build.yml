@@ -16,4 +16,4 @@ jobs:
       - name: parse files
         run: node ./parser/index.js
       - name: Build
-        run: hugo --minify
+        run: cd site && hugo --minify
