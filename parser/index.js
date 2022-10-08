@@ -1,6 +1,6 @@
 const fs = require('fs')
 const basePath = './data/fb';
-const target = './site/content/fi/post'
+const target = './site/content/fi/feed'
 
 if (fs.existsSync(target)) {
     fs.rmSync(target, {
@@ -56,3 +56,10 @@ ${item.message || ""}
         fs.copyFileSync(picPath, `${folder}/${item.id}.jpg`)
     }
 }))
+
+const indexContent = `
+---
+title: "Feed"
+---
+`
+fs.writeFileSync(`${target}/_index.md`, indexContent)
