@@ -29,12 +29,24 @@ enableRobotsTXT = true
   text_color = ""
   author = ""
   favicon = ""
-  site_logo = "logo.png"
+  site_logo = "logo-white.png"
   description = "Suomen paras lesbokuoro"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 20
   body_classes = "avenir bg-near-white"
+
+[[params.ananke_socials]]
+name = "email"
+url = "mailto:info@kaupunginnaiset.fi"
+label = "email"
+color = "white"
+
+[[params.ananke_socials]]
+name = "shop"
+url = "https://www.reddyshop.co/kaupunginnaiset"
+label = "shop"
+color = "white"
 
 [[params.ananke_socials]]
 name = "facebook"
@@ -48,6 +60,3 @@ url = "https://www.instagram.com/kaupunginnaiset"
 name = "youtube"
 url = "https://www.youtube.com/channel/UCzFFIk1IOc881SHm48WwFHw"
 
-[[params.ananke_socials]]
-name = "email"
-url = "mailto:info@kaupunginnaiset.fi"
