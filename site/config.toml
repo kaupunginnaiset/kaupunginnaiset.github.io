@@ -15,10 +15,14 @@ enableRobotsTXT = true
     title = "Kaupungin Naiset"
     weight = 1
     contentDir = "content/fi"
-  [languages.en]
-    title = "Kaupungin Naiset"
-    weight = 2
-    contentDir = "content/en"
+  # [languages.en]
+  #   title = "Kaupungin Naiset"
+  #   weight = 2
+  #   contentDir = "content/en"
+  # [languages.se]
+  #   title = "Kaupungin Naiset"
+  #   weight = 3
+  #   contentDir = "content/se"
 
 [sitemap]
   changefreq = "monthly"

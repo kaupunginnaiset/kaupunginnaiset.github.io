@@ -60,6 +60,7 @@ ${item.message || ""}
 const indexContent = `
 ---
 title: "Feed"
+omit_header_text: true
 ---
 `
 fs.writeFileSync(`${target}/_index.md`, indexContent)
