@@ -19,7 +19,7 @@ Lampinen kutsui yhteen tuntemiaan laulajia, joiden muodostamasta hätäkuorosta 
 Kaupungin Naiset (Townswomen).
 
 Kun kuoroa perustettiin, käytiin kova aivoriihi nimestä. Eräs kuorolainen muisti Ateneumissa olleen
-näyttelyn L. Onervan Kaupungin Naisia. [L. Onerva](link: https://fi.wikipedia.org/wiki/L._Onerva)
+näyttelyn L. Onervan Kaupungin Naisia. [L. Onerva](https://fi.wikipedia.org/wiki/L._Onerva)
 oli suomalainen runoilija ja feministi.
 Lisäksi Kaupungin Naiset sanaparissa tuntui kiva, urbaani, itsenäinen, ehkä jopa vähän syntinen klangi.
 Nimi tuntui täydelliseltä ja se otettiin heti ylpeänä käyttöön.
