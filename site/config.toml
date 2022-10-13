@@ -1,5 +1,5 @@
 title = "Kaupungin Naiset"
-baseURL = "https://dev.kaupunginnaiset.fi"
+baseURL = "https://www.kaupunginnaiset.fi"
 languageCode = "fi-FI"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
