@@ -32,7 +32,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "logo-char.png"
   site_logo = "logo-white.png"
   description = "Suomen paras lesbokuoro"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

@@ -35,18 +35,20 @@ const parseConcerts = () => {
 
     const placeHolder = "Ei tulevia keikkoja. Varaa oma yksityiskeikkasi sähköpostilla: keikat@kaupunginnaiset.fi"
 
-    const pastText = Object.keys(past).reverse().map(year => {
-        const concerts = past[year]
-        return `${year != currentDate.getFullYear() ? `### ${year}  ` : ""}
-
-${concerts.map((item, index) => {
-            return `${item.date}  
+    const getConcertsText = items => items.map((item, index) => {
+        return `${item.date}  
 ${item.url ? `[${item.name}](${item.url})` : item.name}  
 ${item.location}  
 ${index < concerts.length - 1 ? "  " : ""}
 `
-        }).join(" ")}
- `
+    }).join(" ")
+
+    const pastText = Object.keys(past).reverse().map(year => {
+        const concerts = past[year]
+        return `${year != currentDate.getFullYear() ? `### ${year}  ` : ""}
+
+${getConcertsText(concerts)}
+`
     }).join(" ")
 
 
@@ -57,7 +59,7 @@ omit_header_text: true
 ---
 
 ## Tulevat
-${concerts.future.length > 0 ? "" : placeHolder}
+${concerts.future.length > 0 ? getConcertsText(concerts.future) : placeHolder}
 
 ## Menneet
 
