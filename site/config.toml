@@ -46,11 +46,11 @@ url = "mailto:info@kaupunginnaiset.fi"
 label = "email"
 color = "white"
 
-[[params.ananke_socials]]
-name = "shop"
-url = "https://www.reddyshop.co/kaupunginnaiset"
-label = "shop"
-color = "white"
+# [[params.ananke_socials]]
+# name = "shop"
+# url = "https://www.reddyshop.co/kaupunginnaiset"
+# label = "shop"
+# color = "white"
 
 [[params.ananke_socials]]
 name = "facebook"

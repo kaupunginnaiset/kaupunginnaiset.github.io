@@ -2,7 +2,13 @@
     {
         "date": "15.12.2022",
         "name": "Vuoden päätöskonsertti",
-        "location": "Balderin sali",
+        "location": "Balderin sali, Helsinki",
+        "url": ""
+    },
+    {
+        "date": "7.12.2022",
+        "name": "Yksityistilaisuus",
+        "location": "Helsinki",
         "url": ""
     },
     {
