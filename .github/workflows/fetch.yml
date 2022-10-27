@@ -21,7 +21,7 @@ jobs:
 
       - run: |
           file_item_count=$(jq length $LAST_DATA_FILE || 0)
-          if ["$LAST_FILE_COUNT" -ne "$file_item_count"]; then
+          if [["$LAST_FILE_COUNT" -ne "$file_item_count"]]; then
             git config --global user.email "fb-bot"
             git config --global user.name "fb-bot"
             git add data
