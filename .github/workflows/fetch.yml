@@ -8,6 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: |
+          file_path=$(date +'./data/fb/%Y/%m/%Y-%m.json')
+          file_item_count=$(jq length $file_path || 0)
+          echo "LAST_DATA_FILE=$file_path" >> $GITHUB_ENV
+          echo "LAST_FILE_COUNT=$file_item_count" >> $GITHUB_ENV
       - uses: lauravuo/fb-fetch-action@main
         with:
           start-year: 2014
@@ -15,7 +20,10 @@ jobs:
           page-token: ${{ secrets.FB_PAGE_TOKEN }}
 
       - run: |
-          git config --global user.email "fb-bot"
-          git config --global user.name "fb-bot"
-          git add data
-          git diff-index --quiet HEAD || git commit -a -m "Add latest posts." && git push
+          file_item_count=$(jq length $LAST_DATA_FILE || 0)
+          if ["$LAST_FILE_COUNT" -ne "$file_item_count"]; then
+            git config --global user.email "fb-bot"
+            git config --global user.name "fb-bot"
+            git add data
+            git diff-index --quiet HEAD || git commit -a -m "Add latest posts." && git push;
+          fi
