@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           file_path=$(date +'./data/fb/%Y/%m/%Y-%m.json')
-          file_item_count=$(jq length $file_path || 0)
+          file_item_count=$(jq length $file_path || echo "0")
           echo "LAST_DATA_FILE=$file_path" >> $GITHUB_ENV
           echo "LAST_FILE_COUNT=$file_item_count" >> $GITHUB_ENV
       - uses: lauravuo/fb-fetch-action@main
