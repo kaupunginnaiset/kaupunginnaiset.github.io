@@ -7,7 +7,9 @@ jobs:
   fetch-posts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PUSH_GITHUB_TOKEN }} # use token to trigger deployment
       - run: |
           file_path=$(date +'./data/fb/%Y/%m/%Y-%m.json')
           file_item_count=$(jq length $file_path || echo "0")
