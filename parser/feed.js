@@ -51,10 +51,10 @@ ${item.message || ""}
             fs.mkdirSync(folder)
         }
 
-        fs.writeFileSync(`${folder}/${item.created_time}.md`, content)
         const lastIndex = item.filePath.lastIndexOf('/')
         const picPath = `${item.filePath.substring(0, lastIndex)}/${item.id}.jpg`
         if (fs.existsSync(picPath)) {
+            fs.writeFileSync(`${folder}/${item.created_time}.md`, content)
             fs.copyFileSync(picPath, `${folder}/${item.id}.jpg`)
         }
     }))
