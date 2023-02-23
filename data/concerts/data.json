@@ -1,487 +1,498 @@
 [
-    {
-        "date": "15.12.2022",
-        "name": "Me pidämme tulesta -konsertti",
-        "location": "Balderin sali, Helsinki",
-        "url": "https://www.facebook.com/events/1517421435424403/"
-    },
-    {
-        "date": "21.12.2022",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki"
-    },
-    {
-        "date": "1.10.2022",
-        "name": "Naisasialiitto Unionin Juhlabrunssi",
-        "location": "Kansallismuseo, Helsinki",
-        "url": "https://naisunioni.fi/tapahtuma/juhlaseminaari/"
-    },
-    {
-        "date": "19.8.2022",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "18.8.2022",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "13.8.2022",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "30.06.2019",
-        "name": "Pride House: Kaupungin Naiset",
-        "location": "Kiasma, Helsinki",
-        "url": "https://pride.fi/tapahtumat/kaupungin-naiset-kuoroesitys/"
-    },
-    {
-        "date": "29.6.2022",
-        "name": "Minä olen erehtymätön -konsertti",
-        "location": "Balderin sali, Helsinki",
-        "url": "https://www.facebook.com/events/658874795362214"
-    },
-    {
-        "date": "28.06.2019",
-        "name": "Avoin kenraaliharjoitus",
-        "location": "Rikhardinkadun kirjasto, Helsinki",
-        "url": ""
-    },
-    {
-        "date": "10.6.2022",
-        "name": "Minä olen erehtymätön -konsertti",
-        "location": "Wivi Lönn -sali, Tampere",
-        "url": "https://www.facebook.com/events/359546369435960"
-    },
-    {
-        "date": "22.5.2022",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "6.5.2022",
-        "name": "Espoon sateenkaarimessu",
-        "location": "Laaksolahden kappeli",
-        "url": ""
-    },
-    {
-        "date": "7.12.2021",
-        "name": "Oma konsertti: Tulkaa kotiin",
-        "location": "Kirjailijatalo Villa Kivi",
-        "url": ""
-    },
-    {
-        "date": "18.8.2021",
-        "name": "Bokvillanin kirjapäivät",
-        "location": "Kaffila Bokvillan",
-        "url": "https://www.facebook.com/events/285548306607686/"
-    },
-    {
-        "date": "17.12.2019",
-        "name": "Oma keikka: Antakaa olla",
-        "location": "Lavaklubi, Kansallisteatteri",
-        "url": "https://www.facebook.com/events/426340797901529/"
-    },
-    {
-        "date": "8.11.2019",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "24.10.2019",
-        "name": "Naisasialiitto Unioni jäsenilta",
-        "location": "Naisasialiitto Unioni, Helsinki",
-        "url": "https://www.facebook.com/events/523307778507821/"
-    },
-    {
-        "date": "28.9.2019",
-        "name": "Queertune",
-        "location": "Tukholma",
-        "url": "https://www.facebook.com/events/1133539433702718/"
-    },
-    {
-        "date": "31.08.2019",
-        "name": "Mummolaakson 25-v. synttäritanssit",
-        "location": "Botta, Helsinki",
-        "url": "https://www.facebook.com/events/2118222545138802/"
-    },
-    {
-        "date": "28.06.2019",
-        "name": "Oma konsertti: Sänky on makaamista varten",
-        "location": "Balderin sali, Helsinki",
-        "url": "https://www.facebook.com/events/450981092366605/"
-    },
-    {
-        "date": "26.06.2019",
-        "name": "Avoin kenraaliharjoitus",
-        "location": "Rikhardinkadun kirjasto, Helsinki",
-        "url": "https://www.facebook.com/events/683685305790160/"
-    },
-    {
-        "date": "20.05.2019",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "18.05.2019",
-        "name": "Anja Erämajan Imuri-romaanin julkkarit",
-        "location": "Bokvillan, Helsinki",
-        "url": "https://www.facebook.com/events/2040463799591852"
-    },
-    {
-        "date": "26.04.2019",
-        "name": "Querelle",
-        "location": "The Train Factory, Helsinki",
-        "url": "http://querelle.fi/"
-    },
-    {
-        "date": "02.03.2019",
-        "name": "Vikerkaar - FinEst Moments",
-        "location": "Musiikkitalo",
-        "url": "https://www.facebook.com/events/298455930688793/"
-    },
-    {
-        "date": "14.12.2018",
-        "name": "Oma keikka: Pelkään että kroppa jäähtyy",
-        "location": "Dubrovnik, Helsinki",
-        "url": "https://www.facebook.com/events/722023458151676/"
-    },
-    {
-        "date": "08.12.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "08.12.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "29.11.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "26.11.2018",
-        "name": "Aktivisti, nainen, feministi?",
-        "location": "Helsinki",
-        "url": "https://www.facebook.com/events/1163768417113915/"
-    },
-    {
-        "date": "08.11.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "01.09.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "17.08.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "28.06.2018",
-        "name": "Oma konsertti: Naapurilla on paremmat roskat",
-        "location": "Balderin sali",
-        "url": "https://www.facebook.com/events/2307067216186832/"
-    },
-    {
-        "date": "25.06.2018",
-        "name": "Helsinki Pride 2018 Avajaiset",
-        "location": "Pride House 2018",
-        "url": "https://www.facebook.com/events/2060002200693916/"
-    },
-    {
-        "date": "10.05.2018",
-        "name": "Euroviisumessu",
-        "location": "Kallion kirkko",
-        "url": "https://www.facebook.com/events/1976132035981596/"
-    },
-    {
-        "date": "27.04.2018",
-        "name": "Petra Lampinen – DEKADENSSI",
-        "location": "Dubrovnik, Helsinki",
-        "url": "https://holvi.com/shop/petralampinen/product/d1ebd7dc5b5f5590c4ed7a610803d420/"
-    },
-    {
-        "date": "21.04.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "10.03.2018",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "15.12.2017",
-        "name": "Oma konsertti: Kaupungin Naiset goes Dubrovnik",
-        "location": "Dubrovnik, Helsinki",
-        "url": "https://www.facebook.com/events/138117073597379/"
-    },
-    {
-        "date": "30.09.2017",
-        "name": "Queertune, 1st Nordic LHBTIO Choir Festival",
-        "location": "Helsingin konservatorio",
-        "url": "https://www.facebook.com/events/915120581924998/"
-    },
-    {
-        "date": "29.09.2017",
-        "name": "Naisasialiitto Unioni 125 vuotta",
-        "location": "Helsinki",
-        "url": "https://www.facebook.com/events/1407572552664784"
-    },
-    {
-        "date": "27.08.2017",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "29.06.2017",
-        "name": "Oma konsertti: \"Kas, sepä rakkautta!\"",
-        "location": "Balderin sali",
-        "url": "https://www.facebook.com/events/241920846215657/?ref=ts&fref=ts"
-    },
-    {
-        "date": "28.06.2017",
-        "name": "Pride-viikon juhlahumua Taidekoti Kirpilässä",
-        "location": "Helsinki",
-        "url": "https://www.facebook.com/events/1338148556261719"
-    },
-    {
-        "date": "29.04.2017",
-        "name": "Yksityistilaisuus",
-        "location": "Hyvinkää",
-        "url": ""
-    },
-    {
-        "date": "20.04.2017",
-        "name": "Eino Leinon elämäkerran julkistustilaisuus",
-        "location": "Hotelli Kämp",
-        "url": ""
-    },
-    {
-        "date": "15.04.2017",
-        "name": "Pääsiäisyön messu",
-        "location": "Alppilan kirkko",
-        "url": "https://www.facebook.com/events/288027448294229/"
-    },
-    {
-        "date": "12.04.2017",
-        "name": "Vapaus ja vastuu - Party for pride",
-        "location": "Tavastia",
-        "url": "https://www.facebook.com/events/108917646268115/"
-    },
-    {
-        "date": "03.03.2017",
-        "name": "Helsinki Burlesque -festivaali",
-        "location": "Ravintola Gloria",
-        "url": ""
-    },
-    {
-        "date": "01.03.2017",
-        "name": "Vihdoinkin vihille -tilaisuus",
-        "location": "Teatteriravintola Kapsäkki",
-        "url": ""
-    },
-    {
-        "date": "01.03.2017",
-        "name": "Malja avioliittolaille",
-        "location": "Lavaklubi",
-        "url": ""
-    },
-    {
-        "date": "25.02.2017",
-        "name": "Mä haluun häät -musavideon julkistuskonsertti",
-        "location": "Nukketeatteri Sampo",
-        "url": ""
-    },
-    {
-        "date": "11.02.2017",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "03.12.2016",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "26.11.2016",
-        "name": "Oma konsertti: \"Onko tämä nyt sitä?\"",
-        "location": "Valtimonteatteri",
-        "url": ""
-    },
-    {
-        "date": "15.10.2016",
-        "name": "Savon Setan 35 v. -juhlat",
-        "location": "Kuopio",
-        "url": ""
-    },
-    {
-        "date": "14.10.2016",
-        "name": "Regnbågsmässa",
-        "location": "Johanneksen kirkko, Helsinki",
-        "url": ""
-    },
-    {
-        "date": "01.07.2016",
-        "name": "EuroGames Villagen ravintolateltta",
-        "location": "Kansalaistori, Helsinki",
-        "url": ""
-    },
-    {
-        "date": "30.06.2016",
-        "name": "Helsinki Pride",
-        "location": "Balderin sali",
-        "url": ""
-    },
-    {
-        "date": "27.06.2016",
-        "name": "Nuorten Pride -avajaiset",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "21.06.2016",
-        "name": "Tom of Finland -näyttely",
-        "location": "Taidehalli",
-        "url": ""
-    },
-    {
-        "date": "11.06.2016",
-        "name": "Pirkanmaa Pride 2016 -ohjelma",
-        "location": "Laikunlava, Tampere",
-        "url": ""
-    },
-    {
-        "date": "13.05.2016",
-        "name": "Kallio kukkii -festivaalit",
-        "location": "IPI-kahvila",
-        "url": ""
-    },
-    {
-        "date": "11.05.2016",
-        "name": "Oma konsertti",
-        "location": "Valtimonteatteri",
-        "url": ""
-    },
-    {
-        "date": "08.03.2016",
-        "name": "Oma konsertti: “Naisten päivä kaupungissa.”",
-        "location": "Villa Salin",
-        "url": ""
-    },
-    {
-        "date": "12.12.2015",
-        "name": "Oma konsertti: “Entä jos sataa räntää?”",
-        "location": "Valtimonteatteri",
-        "url": ""
-    },
-    {
-        "date": "01.12.2015",
-        "name": "Maailman aids-päivän hartaus",
-        "location": "Hiljaisuuden kappeli",
-        "url": ""
-    },
-    {
-        "date": "26.11.2015",
-        "name": "Kallio Kipinöi -festivaali",
-        "location": "Ravintola Oiva",
-        "url": ""
-    },
-    {
-        "date": "15.08.2015",
-        "name": "Turku Pride 2015",
-        "location": "Taidemuseonmäki, Turku",
-        "url": ""
-    },
-    {
-        "date": "13.08.2015",
-        "name": "Kuorojen kierros",
-        "location": "William K. ja Cafe Piritta, Art goes Kapakka",
-        "url": ""
-    },
-    {
-        "date": "11.07.2015",
-        "name": "Yksityistilaisuus",
-        "location": "Helsinki",
-        "url": ""
-    },
-    {
-        "date": "25.06.2015",
-        "name": "Oma konsertti: Helsinki Pride 2015 -ohjelma",
-        "location": "Balderin sali",
-        "url": ""
-    },
-    {
-        "date": "11.05.2015",
-        "name": "Kallio Kukkii -festivaalit",
-        "location": "Ravintola Toveri",
-        "url": ""
-    },
-    {
-        "date": "13.05.2015",
-        "name": "Kallio Kukkii -festivaalit",
-        "location": "Kahvila Bergga",
-        "url": ""
-    },
-    {
-        "date": "02.05.2015",
-        "name": "Out’n Loud -kuoron 10-vuotisjuhlakonsertti",
-        "location": "Ruoholahden konservatorio",
-        "url": ""
-    },
-    {
-        "date": "06.12.2014",
-        "name": "Suomen Lausujain Liiton itsenäisyyspäivän matinea",
-        "location": "Temppeliaukion kirkko",
-        "url": ""
-    },
-    {
-        "date": "15.11.2014",
-        "name": "Kallio Kipinöi -festivaali",
-        "location": "Karhupuisto",
-        "url": ""
-    },
-    {
-        "date": "08.11.2014",
-        "name": "Mummolaakso Ry:n pikkujoulut",
-        "location": "Ravintola Laulumiehet",
-        "url": ""
-    },
-    {
-        "date": "17.10.2014",
-        "name": "Asunnottomien yö",
-        "location": "Valtimonteatteri",
-        "url": ""
-    },
-    {
-        "date": "11.07.2014",
-        "name": "Musiikkitalo",
-        "location": "Helsinki",
-        "url": ""
-    }
+  {
+    "date": "30.6.2023",
+    "name": "Oma konsertti",
+    "location": "Balderin sali, Helsinki"
+  },
+  {
+    "date": "14.6.2023",
+    "name": "Tampereen Sävel: Avajaiset",
+    "location": "Laikun lava, Tampere",
+    "url": "https://tamperevocal.fi/artist/avajaiset/"
+  },
+  {
+    "date": "21.12.2022",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki"
+  },
+  {
+    "date": "15.12.2022",
+    "name": "Me pidämme tulesta -konsertti",
+    "location": "Balderin sali, Helsinki",
+    "url": "https://www.facebook.com/events/1517421435424403/"
+  },
+  {
+    "date": "1.10.2022",
+    "name": "Naisasialiitto Unionin Juhlabrunssi",
+    "location": "Kansallismuseo, Helsinki",
+    "url": "https://naisunioni.fi/tapahtuma/juhlaseminaari/"
+  },
+  {
+    "date": "19.8.2022",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "18.8.2022",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "13.8.2022",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "30.06.2019",
+    "name": "Pride House: Kaupungin Naiset",
+    "location": "Kiasma, Helsinki",
+    "url": "https://pride.fi/tapahtumat/kaupungin-naiset-kuoroesitys/"
+  },
+  {
+    "date": "29.6.2022",
+    "name": "Minä olen erehtymätön -konsertti",
+    "location": "Balderin sali, Helsinki",
+    "url": "https://www.facebook.com/events/658874795362214"
+  },
+  {
+    "date": "28.06.2019",
+    "name": "Avoin kenraaliharjoitus",
+    "location": "Rikhardinkadun kirjasto, Helsinki",
+    "url": ""
+  },
+  {
+    "date": "10.6.2022",
+    "name": "Minä olen erehtymätön -konsertti",
+    "location": "Wivi Lönn -sali, Tampere",
+    "url": "https://www.facebook.com/events/359546369435960"
+  },
+  {
+    "date": "22.5.2022",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "6.5.2022",
+    "name": "Espoon sateenkaarimessu",
+    "location": "Laaksolahden kappeli",
+    "url": ""
+  },
+  {
+    "date": "7.12.2021",
+    "name": "Oma konsertti: Tulkaa kotiin",
+    "location": "Kirjailijatalo Villa Kivi",
+    "url": ""
+  },
+  {
+    "date": "18.8.2021",
+    "name": "Bokvillanin kirjapäivät",
+    "location": "Kaffila Bokvillan",
+    "url": "https://www.facebook.com/events/285548306607686/"
+  },
+  {
+    "date": "17.12.2019",
+    "name": "Oma keikka: Antakaa olla",
+    "location": "Lavaklubi, Kansallisteatteri",
+    "url": "https://www.facebook.com/events/426340797901529/"
+  },
+  {
+    "date": "8.11.2019",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "24.10.2019",
+    "name": "Naisasialiitto Unioni jäsenilta",
+    "location": "Naisasialiitto Unioni, Helsinki",
+    "url": "https://www.facebook.com/events/523307778507821/"
+  },
+  {
+    "date": "28.9.2019",
+    "name": "Queertune",
+    "location": "Tukholma",
+    "url": "https://www.facebook.com/events/1133539433702718/"
+  },
+  {
+    "date": "31.08.2019",
+    "name": "Mummolaakson 25-v. synttäritanssit",
+    "location": "Botta, Helsinki",
+    "url": "https://www.facebook.com/events/2118222545138802/"
+  },
+  {
+    "date": "28.06.2019",
+    "name": "Oma konsertti: Sänky on makaamista varten",
+    "location": "Balderin sali, Helsinki",
+    "url": "https://www.facebook.com/events/450981092366605/"
+  },
+  {
+    "date": "26.06.2019",
+    "name": "Avoin kenraaliharjoitus",
+    "location": "Rikhardinkadun kirjasto, Helsinki",
+    "url": "https://www.facebook.com/events/683685305790160/"
+  },
+  {
+    "date": "20.05.2019",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "18.05.2019",
+    "name": "Anja Erämajan Imuri-romaanin julkkarit",
+    "location": "Bokvillan, Helsinki",
+    "url": "https://www.facebook.com/events/2040463799591852"
+  },
+  {
+    "date": "26.04.2019",
+    "name": "Querelle",
+    "location": "The Train Factory, Helsinki",
+    "url": "http://querelle.fi/"
+  },
+  {
+    "date": "02.03.2019",
+    "name": "Vikerkaar - FinEst Moments",
+    "location": "Musiikkitalo",
+    "url": "https://www.facebook.com/events/298455930688793/"
+  },
+  {
+    "date": "14.12.2018",
+    "name": "Oma keikka: Pelkään että kroppa jäähtyy",
+    "location": "Dubrovnik, Helsinki",
+    "url": "https://www.facebook.com/events/722023458151676/"
+  },
+  {
+    "date": "08.12.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "08.12.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "29.11.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "26.11.2018",
+    "name": "Aktivisti, nainen, feministi?",
+    "location": "Helsinki",
+    "url": "https://www.facebook.com/events/1163768417113915/"
+  },
+  {
+    "date": "08.11.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "01.09.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "17.08.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "28.06.2018",
+    "name": "Oma konsertti: Naapurilla on paremmat roskat",
+    "location": "Balderin sali",
+    "url": "https://www.facebook.com/events/2307067216186832/"
+  },
+  {
+    "date": "25.06.2018",
+    "name": "Helsinki Pride 2018 Avajaiset",
+    "location": "Pride House 2018",
+    "url": "https://www.facebook.com/events/2060002200693916/"
+  },
+  {
+    "date": "10.05.2018",
+    "name": "Euroviisumessu",
+    "location": "Kallion kirkko",
+    "url": "https://www.facebook.com/events/1976132035981596/"
+  },
+  {
+    "date": "27.04.2018",
+    "name": "Petra Lampinen – DEKADENSSI",
+    "location": "Dubrovnik, Helsinki",
+    "url": "https://holvi.com/shop/petralampinen/product/d1ebd7dc5b5f5590c4ed7a610803d420/"
+  },
+  {
+    "date": "21.04.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "10.03.2018",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "15.12.2017",
+    "name": "Oma konsertti: Kaupungin Naiset goes Dubrovnik",
+    "location": "Dubrovnik, Helsinki",
+    "url": "https://www.facebook.com/events/138117073597379/"
+  },
+  {
+    "date": "30.09.2017",
+    "name": "Queertune, 1st Nordic LHBTIO Choir Festival",
+    "location": "Helsingin konservatorio",
+    "url": "https://www.facebook.com/events/915120581924998/"
+  },
+  {
+    "date": "29.09.2017",
+    "name": "Naisasialiitto Unioni 125 vuotta",
+    "location": "Helsinki",
+    "url": "https://www.facebook.com/events/1407572552664784"
+  },
+  {
+    "date": "27.08.2017",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "29.06.2017",
+    "name": "Oma konsertti: \"Kas, sepä rakkautta!\"",
+    "location": "Balderin sali",
+    "url": "https://www.facebook.com/events/241920846215657/?ref=ts&fref=ts"
+  },
+  {
+    "date": "28.06.2017",
+    "name": "Pride-viikon juhlahumua Taidekoti Kirpilässä",
+    "location": "Helsinki",
+    "url": "https://www.facebook.com/events/1338148556261719"
+  },
+  {
+    "date": "29.04.2017",
+    "name": "Yksityistilaisuus",
+    "location": "Hyvinkää",
+    "url": ""
+  },
+  {
+    "date": "20.04.2017",
+    "name": "Eino Leinon elämäkerran julkistustilaisuus",
+    "location": "Hotelli Kämp",
+    "url": ""
+  },
+  {
+    "date": "15.04.2017",
+    "name": "Pääsiäisyön messu",
+    "location": "Alppilan kirkko",
+    "url": "https://www.facebook.com/events/288027448294229/"
+  },
+  {
+    "date": "12.04.2017",
+    "name": "Vapaus ja vastuu - Party for pride",
+    "location": "Tavastia",
+    "url": "https://www.facebook.com/events/108917646268115/"
+  },
+  {
+    "date": "03.03.2017",
+    "name": "Helsinki Burlesque -festivaali",
+    "location": "Ravintola Gloria",
+    "url": ""
+  },
+  {
+    "date": "01.03.2017",
+    "name": "Vihdoinkin vihille -tilaisuus",
+    "location": "Teatteriravintola Kapsäkki",
+    "url": ""
+  },
+  {
+    "date": "01.03.2017",
+    "name": "Malja avioliittolaille",
+    "location": "Lavaklubi",
+    "url": ""
+  },
+  {
+    "date": "25.02.2017",
+    "name": "Mä haluun häät -musavideon julkistuskonsertti",
+    "location": "Nukketeatteri Sampo",
+    "url": ""
+  },
+  {
+    "date": "11.02.2017",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "03.12.2016",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "26.11.2016",
+    "name": "Oma konsertti: \"Onko tämä nyt sitä?\"",
+    "location": "Valtimonteatteri",
+    "url": ""
+  },
+  {
+    "date": "15.10.2016",
+    "name": "Savon Setan 35 v. -juhlat",
+    "location": "Kuopio",
+    "url": ""
+  },
+  {
+    "date": "14.10.2016",
+    "name": "Regnbågsmässa",
+    "location": "Johanneksen kirkko, Helsinki",
+    "url": ""
+  },
+  {
+    "date": "01.07.2016",
+    "name": "EuroGames Villagen ravintolateltta",
+    "location": "Kansalaistori, Helsinki",
+    "url": ""
+  },
+  {
+    "date": "30.06.2016",
+    "name": "Helsinki Pride",
+    "location": "Balderin sali",
+    "url": ""
+  },
+  {
+    "date": "27.06.2016",
+    "name": "Nuorten Pride -avajaiset",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "21.06.2016",
+    "name": "Tom of Finland -näyttely",
+    "location": "Taidehalli",
+    "url": ""
+  },
+  {
+    "date": "11.06.2016",
+    "name": "Pirkanmaa Pride 2016 -ohjelma",
+    "location": "Laikunlava, Tampere",
+    "url": ""
+  },
+  {
+    "date": "13.05.2016",
+    "name": "Kallio kukkii -festivaalit",
+    "location": "IPI-kahvila",
+    "url": ""
+  },
+  {
+    "date": "11.05.2016",
+    "name": "Oma konsertti",
+    "location": "Valtimonteatteri",
+    "url": ""
+  },
+  {
+    "date": "08.03.2016",
+    "name": "Oma konsertti: “Naisten päivä kaupungissa.”",
+    "location": "Villa Salin",
+    "url": ""
+  },
+  {
+    "date": "12.12.2015",
+    "name": "Oma konsertti: “Entä jos sataa räntää?”",
+    "location": "Valtimonteatteri",
+    "url": ""
+  },
+  {
+    "date": "01.12.2015",
+    "name": "Maailman aids-päivän hartaus",
+    "location": "Hiljaisuuden kappeli",
+    "url": ""
+  },
+  {
+    "date": "26.11.2015",
+    "name": "Kallio Kipinöi -festivaali",
+    "location": "Ravintola Oiva",
+    "url": ""
+  },
+  {
+    "date": "15.08.2015",
+    "name": "Turku Pride 2015",
+    "location": "Taidemuseonmäki, Turku",
+    "url": ""
+  },
+  {
+    "date": "13.08.2015",
+    "name": "Kuorojen kierros",
+    "location": "William K. ja Cafe Piritta, Art goes Kapakka",
+    "url": ""
+  },
+  {
+    "date": "11.07.2015",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki",
+    "url": ""
+  },
+  {
+    "date": "25.06.2015",
+    "name": "Oma konsertti: Helsinki Pride 2015 -ohjelma",
+    "location": "Balderin sali",
+    "url": ""
+  },
+  {
+    "date": "11.05.2015",
+    "name": "Kallio Kukkii -festivaalit",
+    "location": "Ravintola Toveri",
+    "url": ""
+  },
+  {
+    "date": "13.05.2015",
+    "name": "Kallio Kukkii -festivaalit",
+    "location": "Kahvila Bergga",
+    "url": ""
+  },
+  {
+    "date": "02.05.2015",
+    "name": "Out’n Loud -kuoron 10-vuotisjuhlakonsertti",
+    "location": "Ruoholahden konservatorio",
+    "url": ""
+  },
+  {
+    "date": "06.12.2014",
+    "name": "Suomen Lausujain Liiton itsenäisyyspäivän matinea",
+    "location": "Temppeliaukion kirkko",
+    "url": ""
+  },
+  {
+    "date": "15.11.2014",
+    "name": "Kallio Kipinöi -festivaali",
+    "location": "Karhupuisto",
+    "url": ""
+  },
+  {
+    "date": "08.11.2014",
+    "name": "Mummolaakso Ry:n pikkujoulut",
+    "location": "Ravintola Laulumiehet",
+    "url": ""
+  },
+  {
+    "date": "17.10.2014",
+    "name": "Asunnottomien yö",
+    "location": "Valtimonteatteri",
+    "url": ""
+  },
+  {
+    "date": "11.07.2014",
+    "name": "Musiikkitalo",
+    "location": "Helsinki",
+    "url": ""
+  }
 ]
