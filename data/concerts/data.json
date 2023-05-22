@@ -1,8 +1,25 @@
 [
   {
+    "date": "8.7.2023",
+    "name": "Kainuu Pride",
+    "location": "Kajaani"
+  },
+  {
     "date": "30.6.2023",
     "name": "Oma konsertti",
-    "location": "Balderin sali, Helsinki"
+    "location": "Balderin sali, Helsinki",
+    "url": "https://www.facebook.com/events/254378333766203"
+  },
+  {
+    "date": "20.6.2023",
+    "name": "Yksityistilaisuus",
+    "location": "Helsinki"
+  },
+  {
+    "date": "17.6.2023",
+    "name": "ECCE HOMO 2023",
+    "location": "Stadin asukastalo Hanna, Helsinki",
+    "url": "https://www.facebook.com/events/899710617766824"
   },
   {
     "date": "14.6.2023",
