@@ -2,7 +2,8 @@
   {
     "date": "8.7.2023",
     "name": "Kainuu Pride",
-    "location": "Kajaani"
+    "location": "Kajaani",
+    "url": "https://www.facebook.com/kainuupride/"
   },
   {
     "date": "30.6.2023",
@@ -12,8 +13,9 @@
   },
   {
     "date": "20.6.2023",
-    "name": "Yksityistilaisuus",
-    "location": "Helsinki"
+    "name": "Keskustelutilaisuus LGBTQI+-oikeuksista",
+    "location": "Kaisa-talo, Helsinki",
+    "url": "https://studies.helsinki.fi/ohjeet/uutiset/tule-mukaan-yliopiston-pride-tapahtumiin"
   },
   {
     "date": "17.6.2023",
