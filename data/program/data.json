@@ -1,296 +1,310 @@
 [
-    {
-        "author": "Anja Erämaja",
-        "title": "Antakaa olla",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Ilpo Tiihonen",
-        "title": "Ars moriendi",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Helena Sinervo",
-        "title": "Avaruusruusu",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Tommy Tabermann",
-        "title": "Ehdoitta",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Edith Södergran",
-        "title": "Elämä",
-        "publication": "",
-        "year": "",
-        "translator": "Uuno Kailas"
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Entä jos sataa",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Olli Heikkonen",
-        "title": "Hirvi",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Tuija Välipakka",
-        "title": "Illalla ajattele kuolemaa",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Olli Heikkonen",
-        "title": "Joka ikinen yö",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Suom. kansanruno",
-        "title": "Jonger konger",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Jäähyväiset jälleen kerran aseille",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Inka Nousiainen",
-        "title": "Kuka tietää",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Sirkka Turkka",
-        "title": "Kuljemme tasajalkaa kuoleman kanssa",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Kultainen avain",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Kuolema tunkeutuu eteiseen",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "E. Lipponen & S. Issakainen",
-        "title": "Lankut lupaa",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Ilpo Tiihonen",
-        "title": "Lucy I love you",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Maailmanpyörän paljuissa keinuu vesi",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Mercedes",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Edith Södergran",
-        "title": "Metsän vaalea tytär",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Mä haluun häät",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Milloin ovikello soi",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Mitä kaikkea voi tiputtaa postiluukusta",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Naapurilla on paremmat roskat",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Aki Salmela",
-        "title": "Näyttää siltä kuin sattuma olisi tuonut",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Suom. kansanruno",
-        "title": "Niin kauan minä tramppaan",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Taina Latvala",
-        "title": "Niin kuin ulkomailla",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Ongelma on nyt se",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Onko tämä nyt sitä",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Ilpo Tiihonen",
-        "title": "Rakastella ja kuolla",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Eino Leino",
-        "title": "Rakkauden laulu",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Eino Leino",
-        "title": "Rauha",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Arvid Lydecken",
-        "title": "Salomaan joulu",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Kari Hotakainen",
-        "title": "Siniset veet",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Sänky on makaamista varten",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Laura Lindstedt",
-        "title": "Tutkimusetiikka",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Adrianne Rich",
-        "title": "Transcendental etude",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Tulkaa kotiin (osa 3)",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Sinikka Vuola",
-        "title": "Täällä on yhä se käärme",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Suom. kansanruno",
-        "title": "Unen poika porstuassa",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Anja Erämaja",
-        "title": "Vastaa pian",
-        "publication": "",
-        "year": "",
-        "translator": ""
-    },
-    {
-        "author": "Gertrude Stein",
-        "title": "Vatsan nosto",
-        "publication": "",
-        "year": "",
-        "translator": "Aki Salmela"
-    }
+  {
+    "author": "Anja Erämaja",
+    "title": "Antakaa olla",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Ilpo Tiihonen",
+    "title": "Ars moriendi",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Helena Sinervo",
+    "title": "Avaruusruusu",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Tommy Tabermann",
+    "title": "Ehdoitta",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Edith Södergran",
+    "title": "Elämä",
+    "publication": "",
+    "year": "",
+    "translator": "Uuno Kailas"
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Entä jos sataa",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Olli Heikkonen",
+    "title": "Hirvi",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Tuija Välipakka",
+    "title": "Illalla ajattele kuolemaa",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Olli Heikkonen",
+    "title": "Joka ikinen yö",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Suom. kansanruno",
+    "title": "Jonger konger",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Jäähyväiset jälleen kerran aseille",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Inka Nousiainen",
+    "title": "Kuka tietää",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Sirkka Turkka",
+    "title": "Kuljemme tasajalkaa kuoleman kanssa",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Kultainen avain",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Kuolema tunkeutuu eteiseen",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "E. Lipponen & S. Issakainen",
+    "title": "Lankut lupaa",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Ilpo Tiihonen",
+    "title": "Lucy I love you",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Maailmanpyörän paljuissa keinuu vesi",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Mercedes",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Edith Södergran",
+    "title": "Metsän vaalea tytär",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Mä haluun häät",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Milloin ovikello soi",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Mitä kaikkea voi tiputtaa postiluukusta",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Naapurilla on paremmat roskat",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Aki Salmela",
+    "title": "Näyttää siltä kuin sattuma olisi tuonut",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Suom. kansanruno",
+    "title": "Niin kauan minä tramppaan",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Taina Latvala",
+    "title": "Niin kuin ulkomailla",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Ongelma on nyt se",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Onko tämä nyt sitä",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Ilpo Tiihonen",
+    "title": "Rakastella ja kuolla",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Eino Leino",
+    "title": "Rakkauden laulu",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Eino Leino",
+    "title": "Rauha",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Arvid Lydecken",
+    "title": "Salomaan joulu",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Kari Hotakainen",
+    "title": "Siniset veet",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Sänky on makaamista varten",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Laura Lindstedt",
+    "title": "Tutkimusetiikka",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Adrianne Rich",
+    "title": "Transcendental etude",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Tulkaa kotiin (osa 3)",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Sinikka Vuola",
+    "title": "Täällä on yhä se käärme",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Suom. kansanruno",
+    "title": "Unen poika porstuassa",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Anja Erämaja",
+    "title": "Vastaa pian",
+    "publication": "",
+    "year": "",
+    "translator": ""
+  },
+  {
+    "author": "Gertrude Stein",
+    "title": "Vatsan nosto",
+    "publication": "Neiti Steinin keittäjätär",
+    "year": "2022",
+    "translator": "Aki Salmela"
+  },
+  {
+    "author": "Gertrude Stein",
+    "title": "Kaikkea sinussa, kaikella minussa",
+    "publication": "Neiti Steinin keittäjätär",
+    "year": "2022",
+    "translator": "Aki Salmela"
+  },
+  {
+    "author": "Marianna Kurtto",
+    "title": "Kuinka ylivertainen on tiede",
+    "publication": "Ellen valkeudessa",
+    "year": "2023",
+    "translator": ""
+  }
 ]
