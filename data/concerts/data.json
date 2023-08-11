@@ -1,5 +1,16 @@
 [
   {
+    "date": "30.11.2023",
+    "name": "Oma konsertti",
+    "location": "Balderin sali, Helsinki"
+  },
+  {
+    "date": "17.8.2023",
+    "name": "Villa Kiven taiteiden yö 2023",
+    "location": "Villa Kivi, Helsinki",
+    "url": "https://helsinkifestival.fi/taiteidenyo/event/villa-kiven-taiteiden-yo-2023/"
+  },
+  {
     "date": "8.7.2023",
     "name": "Kainuu Pride",
     "location": "Kajaani",
