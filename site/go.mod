@@ -2,4 +2,4 @@ module github.com/kaupunginnaiset/kaupunginnaiset.github.io
 
 go 1.19
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220907123632-5a8b531a7ce2 // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230919154732-c086834f0ebf // indirect
