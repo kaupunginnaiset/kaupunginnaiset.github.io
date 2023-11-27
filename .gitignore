@@ -7,5 +7,6 @@ resources
 site/content/fi/feed/
 site/content/fi/keikat/
 site/content/fi/ohjelmisto/
+site/public
 
 .envrc
