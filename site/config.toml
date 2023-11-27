@@ -8,6 +8,7 @@ DefaultContentLanguage = "fi"
 SectionPagesMenu = "main"
 Paginate = 12
 googleAnalytics = ""
+enableRobotsTXT = true
 
 [languages]
   [languages.fi]
