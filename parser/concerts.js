@@ -51,7 +51,6 @@ ${getConcertsText(concerts)}
 `
     }).join(" ")
 
-
     const content = `
 ---
 title: "Keikat"
@@ -59,7 +58,7 @@ omit_header_text: true
 ---
 
 ## Tulevat
-${concerts.future.length > 0 ? getConcertsText(concerts.future.sort((a, b) => a.date < b.date ? -1 : 1)) : placeHolder}
+${concerts.future.length > 0 ? getConcertsText(concerts.future.sort((a, b) => a.timestamp < b.timestamp ? -1 : 1)) : placeHolder}
 
 ## Menneet
 
