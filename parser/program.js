@@ -16,6 +16,15 @@ const parseProgram = () => {
         .reduce((result, item) => {
             return ({ ...result, [item.author]: [...(result[item.author] || []), item] })
         }, {})
+    const contentPerAuthor = Object.keys(authors)
+        .reduce((result, item) => {
+            const poems = authors[item].sort((a, b) => {
+                return a.title > b.title ? 1 : -1
+            })
+        .map(poem => `${poem.title}\n${poem.translator ? `suom. ${poem.translator}\n` : ''}`)
+        .join('\n')
+        return { ...result, [item]: poems }
+        }, {})
 
     const content = `
 ---
@@ -29,17 +38,7 @@ Kaikki sävellykset ja sovitukset **Petra Lampinen**
 
 ${Object.keys(authors).sort((a, b) => {
         return a.split(" ")[1] > b.split(" ")[1] ? 1 : -1
-    }).map(item => {
-        const poems = authors[item]
-        return poems.sort((a, b) => {
-            return a.title > b.title ? 1 : -1
-        }).map(poem => {
-            return `**${poem.author}**  
-${poem.title}  
-${poem.translator ? `suom. ${poem.translator}` : ""}  
-`
-        }).join("\n")
-    }).join("\n")}
+    }).map(item => `\n---\n### ${item}\n\n${contentPerAuthor[item]}`).join("\n\n")}
 
 `
     fs.writeFileSync(`${target}/_index.md`, content)
