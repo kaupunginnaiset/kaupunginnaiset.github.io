@@ -1,5 +1,7 @@
 const fs = require('fs')
 
+const weekdays = ['la', 'su', 'ma', 'ti', 'ke', 'to', 'pe']
+
 const parseConcerts = () => {
     const srcPath = './data/concerts/data.json';
     const target = './site/content/fi/keikat'
@@ -21,7 +23,7 @@ const parseConcerts = () => {
                 parseInt(dateParts[1], 10) - 1,
                 parseInt(dateParts[0], 10) + 1
             )
-            const itemWithDate = { ...item, timestamp: date }
+            const itemWithDate = { ...item, timestamp: date, date: `${weekdays[date.getDay()]} ${item.date}` }
             if (date > currentDate) {
                 return ({ ...result, future: [...result.future, itemWithDate] })
             }
