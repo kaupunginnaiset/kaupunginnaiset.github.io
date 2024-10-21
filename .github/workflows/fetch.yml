@@ -24,7 +24,7 @@ jobs:
           echo "LAST_PREV_FILE_COUNT=$file_prev_item_count" >> $GITHUB_ENV
       - uses: lauravuo/fb-fetch-action@main
         with:
-          start-year: 2014
+          start-year: 2024
           page-id: ${{ secrets.FB_PAGE_ID }}
           page-token: ${{ secrets.FB_PAGE_TOKEN }}
 
